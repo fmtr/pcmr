@@ -13,4 +13,4 @@ def is_cooking(pc)
     return powers[1] && !powers[3] # Cooking is running and Delayed Start is not enabled.
 end
 
-pc=pcmr.PowerConfigurator(4.0*1000, 960.0, is_cooking)
+pcmr.PowerConfigurator(4.0*1000, 960.0, is_cooking)
