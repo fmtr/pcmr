@@ -106,3 +106,5 @@ end
 var pcmr = module("pcmr")
 pcmr.VERSION=VERSION
 pcmr.PowerConfigurator=PowerConfigurator
+
+return pcmr
