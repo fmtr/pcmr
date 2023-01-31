@@ -1,4 +1,4 @@
-var VERSION='0.0.0'
+var VERSION='0.0.1'
 var CURRENT_LOW=1.0*1000
 var POWER_LOW=1.0
 

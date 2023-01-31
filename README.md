@@ -19,9 +19,9 @@ is likely to change.
 Simply paste the following into your Tasmota Berry Script Console:
 
 ```be
-tasmota.urlfetch('https://raw.githubusercontent.com/fmtr/pcmr/v0.0.0/pcmr.be','/pcmr.be')
+tasmota.urlfetch('https://raw.githubusercontent.com/fmtr/pcmr/v0.0.1/pcmr.be','/pcmr.be')
 ```
 
-Alternatively, manually download [pcmr.be](https://raw.githubusercontent.com/fmtr/pcmr/v0.0.0/pcmr.be) and upload it
+Alternatively, manually download [pcmr.be](https://raw.githubusercontent.com/fmtr/pcmr/v0.0.1/pcmr.be) and upload it
 onto
 your device.
