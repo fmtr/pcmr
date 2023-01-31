@@ -1,7 +1,4 @@
 var VERSION='0.0.0'
-
-log("Setting up T21 power config")
-
 var CURRENT_LOW=1.0*1000
 var POWER_LOW=1.0
 
@@ -107,7 +104,5 @@ class PowerConfigurator
 end
 
 var pcmr = module("pcmr")
-
 pcmr.VERSION=VERSION
-
 pcmr.PowerConfigurator=PowerConfigurator
